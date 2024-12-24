@@ -1,0 +1,17 @@
+[
+{
+  "modid": "tabgen",
+  "name": "TabGen",
+  "description": "A simple mod to capture and save the tab list as an image",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/9de/TabGen",
+  "updateUrl": "",
+  "authorList": ["Tvrki (Discord: \50y)"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [],
+  "useDependencyInformation": true
+}
+]
