@@ -12,6 +12,10 @@ A Minecraft Forge mod that generates high-quality screenshots of the player tab 
 - Clean, professional output with configurable styling
 - Timestamp-based file naming for easy organization
 
+## ScreenShot
+![tablist_2024-12-24_21 59 21](https://github.com/user-attachments/assets/62f6e159-9ea9-4a7e-a6d5-650f39ab5d9f)
+![tablist_2024-12-24_21 19 02](https://github.com/user-attachments/assets/3d883477-88fe-4429-9f5a-7faf0ce5f470)
+
 ## Installation
 
 1. Ensure you have Minecraft Forge installed
